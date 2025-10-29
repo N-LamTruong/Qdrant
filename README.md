@@ -1,6 +1,6 @@
 # Qdrant
 1. Installation requirements
-   - Đọc kỹ tại đây: **[Click me](https://qdrant.tech/documentation/guides/installation/#installation-requirements)**
+   - Đọc kỹ yêu cầu ban đầu tại đây: **[Click me](https://qdrant.tech/documentation/guides/installation/#installation-requirements)**
 2. Docker Compose
    ```
    services:
