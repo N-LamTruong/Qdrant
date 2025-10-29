@@ -16,5 +16,14 @@
        volumes:
          - ./qdrant_data:/qdrant/storage
    ```
+    - Start service
+    ```
+    sudo docker-compose up -d
+    ```
+    - Check logs
+    ```
+    sudo docker-compose logs -f
+    ```
+
 3. Lưu ý:
     - Check Firewall local port: 6333, 6334
